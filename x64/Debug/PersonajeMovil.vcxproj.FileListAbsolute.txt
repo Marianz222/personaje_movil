@@ -1,0 +1,2 @@
+C:\Users\Mariano\Desktop\PersonajeMovilReparado\x64\Debug\PersonajeMovil.exe
+D:\Users\W10\VisualStudio_Projects\source\repos\PersonajeMovil\x64\Debug\PersonajeMovil.exe
